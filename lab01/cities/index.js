@@ -10,6 +10,7 @@ import { cao_lanh_city } from './cao_lanh.js';
 import { hong_ngu_city } from './hong_ngu.js';
 import { vinh_long_city } from './vinh_long_city.js';
 import { bac_lieu_city } from './bac_lieu_city.js';
+import { nga_bay_city } from './nga_bay_city.js';
 
 const Cities = [
   kien_giang_city,
@@ -24,5 +25,6 @@ const Cities = [
   hong_ngu_city,
   vinh_long_city,
   bac_lieu_city,
+  nga_bay_city,
 ];
 export default Cities;

@@ -15,6 +15,10 @@ import { my_thuan_b } from './my_thuan.js';
 import { kim_son_b } from './kim_son.js';
 import { ba_ai_b } from './ba_ai.js';
 import { cai_cam_b } from './cai_cam.js';
+import { quay_b } from './cau_quay.js';
+import { xa_no_b } from './xa_no.js';
+import { trang_lon_b } from './trang_lon.js';
+
 const Bridges = [
   binh_loi_b,
   buu_hoa_b,
@@ -33,6 +37,9 @@ const Bridges = [
   kim_son_b,
   ba_ai_b,
   cai_cam_b,
+  quay_b,
+  xa_no_b,
+  trang_lon_b,
 ];
 
 export default Bridges;
