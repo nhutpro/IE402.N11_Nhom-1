@@ -1,27 +1,24 @@
-import { binh_loi_b } from './binh_loi.js';
-import { buu_hoa_b } from './buu_hoa.js';
-import { ca_mau_b } from './ca_mau.js';
-import { cao_lanh_b } from './cao_lanh.js';
-import { dong_nai_b } from './dong_nai.js';
-import { du_tho_b } from './du_tho.js';
-import { kien_giang_b } from './kien_giang.js';
-import { long_binh_b } from './long_binh.js';
-import { sai_gon_b } from './sai_gon.js';
-import { tan_an_b } from './tan_an.js';
-import { ham_luong_b } from './ham_luong.js';
-import { rach_mieu_b } from './rach_mieu.js';
-import { vam_cong_b } from './vam_cong.js';
-import { my_thuan_b } from './my_thuan.js';
-import { kim_son_b } from './kim_son.js';
-import { ba_ai_b } from './ba_ai.js';
-import { cai_cam_b } from './cai_cam.js';
-<<<<<<< HEAD
-import { quay_b } from './cau_quay.js';
-import { xa_no_b } from './xa_no.js';
-import { trang_lon_b } from './trang_lon.js';
-=======
-import { can_tho } from './can-tho.js';
->>>>>>> tuyen
+import { binh_loi_b } from "./binh_loi.js";
+import { buu_hoa_b } from "./buu_hoa.js";
+import { ca_mau_b } from "./ca_mau.js";
+import { cao_lanh_b } from "./cao_lanh.js";
+import { dong_nai_b } from "./dong_nai.js";
+import { du_tho_b } from "./du_tho.js";
+import { kien_giang_b } from "./kien_giang.js";
+import { long_binh_b } from "./long_binh.js";
+import { sai_gon_b } from "./sai_gon.js";
+import { tan_an_b } from "./tan_an.js";
+import { ham_luong_b } from "./ham_luong.js";
+import { rach_mieu_b } from "./rach_mieu.js";
+import { vam_cong_b } from "./vam_cong.js";
+import { my_thuan_b } from "./my_thuan.js";
+import { kim_son_b } from "./kim_son.js";
+import { ba_ai_b } from "./ba_ai.js";
+import { cai_cam_b } from "./cai_cam.js";
+import { quay_b } from "./cau_quay.js";
+import { xa_no_b } from "./xa_no.js";
+import { trang_lon_b } from "./trang_lon.js";
+import { can_tho } from "./can-tho.js";
 
 const Bridges = [
   binh_loi_b,
@@ -41,13 +38,10 @@ const Bridges = [
   kim_son_b,
   ba_ai_b,
   cai_cam_b,
-<<<<<<< HEAD
   quay_b,
   xa_no_b,
   trang_lon_b,
-=======
-  can_tho
->>>>>>> tuyen
+  can_tho,
 ];
 
 export default Bridges;
