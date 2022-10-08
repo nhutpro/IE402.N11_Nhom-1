@@ -17,7 +17,7 @@ require([
     container: "viewDiv",
     map: map,
     zoom: 8,
-    center: [106.10183715820308, 10.583671721437], // longitude, latitude 10.8811081,106.7976408
+    center: [106.10183715820308, 10.583671721437],
   });
   const graphicsLayer = new GraphicsLayer();
 

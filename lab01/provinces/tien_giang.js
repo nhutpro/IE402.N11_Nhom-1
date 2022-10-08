@@ -2,7 +2,7 @@ export const tien_giang = {
 	title: 'Tỉnh Tiền Giang',
 	population: '1.764.000',
 	area: '2.510 km²',
-	color: [43, 203, 77, 0.8],
+	color: [129,0,126, 0.8],
 	rings: [
 		[105.8157659, 10.3704431],
 		[105.8165088, 10.3631831],

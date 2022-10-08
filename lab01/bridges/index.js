@@ -1,47 +1,25 @@
-import { binh_loi_b } from "./binh_loi.js";
-import { buu_hoa_b } from "./buu_hoa.js";
-import { ca_mau_b } from "./ca_mau.js";
 import { cao_lanh_b } from "./cao_lanh.js";
-import { dong_nai_b } from "./dong_nai.js";
-import { du_tho_b } from "./du_tho.js";
-import { kien_giang_b } from "./kien_giang.js";
-import { long_binh_b } from "./long_binh.js";
-import { sai_gon_b } from "./sai_gon.js";
-import { tan_an_b } from "./tan_an.js";
 import { ham_luong_b } from "./ham_luong.js";
 import { rach_mieu_b } from "./rach_mieu.js";
 import { vam_cong_b } from "./vam_cong.js";
 import { my_thuan_b } from "./my_thuan.js";
-import { kim_son_b } from "./kim_son.js";
-import { ba_ai_b } from "./ba_ai.js";
-import { cai_cam_b } from "./cai_cam.js";
-import { quay_b } from "./cau_quay.js";
-import { xa_no_b } from "./xa_no.js";
-import { trang_lon_b } from "./trang_lon.js";
 import { can_tho } from "./can-tho.js";
+import { nam_can_b } from "./nam_can.js";
+import { co_chien_b } from "./co_chien.js";
+import { my_loi_b } from "./my_loi.js";
+import { ben_tre_b } from "./ben_tre.js";
 
 const Bridges = [
-  binh_loi_b,
-  buu_hoa_b,
-  ca_mau_b,
   cao_lanh_b,
-  dong_nai_b,
-  du_tho_b,
-  kien_giang_b,
-  long_binh_b,
-  sai_gon_b,
-  tan_an_b,
   ham_luong_b,
   rach_mieu_b,
   vam_cong_b,
   my_thuan_b,
-  kim_son_b,
-  ba_ai_b,
-  cai_cam_b,
-  quay_b,
-  xa_no_b,
-  trang_lon_b,
   can_tho,
+  nam_can_b,
+  co_chien_b,
+  my_loi_b,
+  ben_tre_b,
 ];
 
 export default Bridges;

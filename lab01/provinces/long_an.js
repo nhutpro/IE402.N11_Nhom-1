@@ -2,7 +2,7 @@ export const long_an = {
 	title: 'Tỉnh Long An',
 	population: '2.003.000',
 	area: '4.492 km²',
-	color: [203, 80, 43, 0.8],
+	color: [1,127,1, 0.8],
 	rings: [
 		[105.5037151, 10.9456093],
 		[105.504832, 10.9433414],
