@@ -2,7 +2,7 @@ export const dong_thap = {
 	title: 'Tỉnh Đồng Tháp',
 	population: '1.600.000',
 	area: '3.238 km²',
-	color: [178, 203, 43, 0.8],
+	color: [252,128,128, 0.8],
 	rings: [
 		[105.1855756, 10.8828772],
 		[105.1859618, 10.8805888],
